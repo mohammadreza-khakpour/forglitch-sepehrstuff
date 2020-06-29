@@ -1,0 +1,24 @@
+[
+  
+  {
+    "id":0,
+    "image":"http://s12.picofile.com/file/8401337568/slider_one.jpg",
+    "source":"sivan awards",
+    "title":"we are honoured by your trust"
+  },
+  
+  {
+    "id":1,
+    "image":"http://s12.picofile.com/file/8401337126/slider_beton_edit.jpg",
+    "source":"ready to use concrete",
+    "title":"ready to use concrete coming with new technologies"
+  },
+  
+  {
+    "id":2,
+    "image":"http://s13.picofile.com/file/8401337168/slider_factory_edit.jpg",
+    "source":"super dense blocks",
+    "title":"made by new materials and new technologies"
+  }
+  
+]
